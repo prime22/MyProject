@@ -2,3 +2,4 @@ This is the test file.
 Add test.
 Add some information add on devbranch & master.
 Modified current file on dev branch.
+Fixed the bug.
